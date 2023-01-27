@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Zorida Anna Denis
+1. Linus Torvalds invented Git.
+2. Also famous for the Linux operating system 
+3 Git was invented in 2005
+4. git init
+5. The push command transfers commit between respitories
+6. it untracks files that git should ignore.
+7. Fork is a copy of a respitory that you manage.
+8. Clone is a copy of a repo in a new directory at another location  
+9. Yes you command
+10. True
